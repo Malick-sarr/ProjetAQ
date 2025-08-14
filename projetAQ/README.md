@@ -18,4 +18,4 @@ Ce projet est sous licence MIT. Voir le fichier LICENCE pour plus de détails.
 
 ## Site Web
 
-Le site web de ce projet sera accessible.
+Le site web de ce projet sera accessible: https://malick-sarr.github.io/ProjetAQ/
